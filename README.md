@@ -3,7 +3,7 @@ MySQL-based Inventory Management System (Semester Project)
 
 ## 📌 Overview
 This project is a MySQL-based Inventory Management System developed as a
-semester project for the Database Systems course at COMSATS University Islamabad.
+semester project for the Database Systems course.
 
 ## 🛠 Technologies Used
 - MySQL
